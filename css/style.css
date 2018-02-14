@@ -209,7 +209,7 @@ h1.intro-title{
     width: 100%;
     position: absolute;
     left:20px;
-    top:60px;
+    top:20px;
 
     /*text-align: justify;*/
     /*text-justify: inter-word;*/
@@ -221,7 +221,7 @@ h1.intro-title{
     width: 100%;
     position: absolute;
     left: 10px;
-    top:50px;
+    top:10px;
     /*text-align: justify;*/
     /*text-justify: inter-word;*/
 }
@@ -232,7 +232,7 @@ h1.intro-title{
     width: 100%;
     position: absolute;
     left: 0px;
-    top:40px;
+    top:0px;
     /*text-align: justify;*/
     /*text-justify: inter-word;*/
 }
@@ -349,6 +349,7 @@ h1.intro-title{
     text-align: center;
     padding-top: 60px;
     padding-bottom: 40px;
+    height:100vh;
 }
 
 #home hr {
